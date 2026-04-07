@@ -14,9 +14,11 @@ body{
     bsckground:#417aa8;
     color:#fff;
 }
+
 .jarak{
     padding:0 2pc;
 }
+
 .menu{
     background-color:#417aa8;
     height:50px;
@@ -26,6 +28,7 @@ body{
     margin:0 auto;
     padding:0 auto;
 }
+
 .menu ul {
     list-style:none;
 }
@@ -37,10 +40,12 @@ body{
     color:#FFF;
     text-decoration:none;
 }
+
 .menu ul li a:hover {
     background-color:#4b88bb;
     display:block;
 }
+
 .content{
     width:90%;
     margin:auto;
@@ -56,4 +61,12 @@ body{
     padding-bottom:1pc;
     padding-left:2pc;
     padding-right:2pc;
+}
+
+.kiri{
+    width:70%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
 }
