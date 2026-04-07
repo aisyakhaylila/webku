@@ -29,7 +29,6 @@ body{
 .menu ul {
     list-style:none;
 }
-
 .menu ul li a {
     float:left;
     width:70px;
@@ -37,4 +36,8 @@ body{
     text-align:center;
     color:#FFF;
     text-decoration:none;
+}
+.menu ul li a:hover {
+    background-color:#4b99bb;
+    display:block;
 }
