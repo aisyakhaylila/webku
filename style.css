@@ -7,11 +7,11 @@ body{
 }
 
 .header{
-    width:90%;
+    width:90%
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8
+    background:#417aa8;
     color:#fff;
 }
 .jarak{
@@ -37,4 +37,8 @@ body{
     text-align:center;
     color:#FFF;
     text-decoration:none;
+}
+.menu ul li a:hover {
+    background-color:#4b88bb;
+    display:block;
 }
